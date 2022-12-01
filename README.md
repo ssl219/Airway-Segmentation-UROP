@@ -1,2 +1,2 @@
 # Airway-Segmentation-UROP
-Deep learning based Airway Segmentation for High Resolution Lung CT Images
+Deep learning based Airway Segmentation for High Resolution CT Images
