@@ -1,6 +1,7 @@
 # Airway-Segmentation-UROP
 Deep learning based Airway Segmentation for High Resolution CT Images
 
+Jonathan Rubin and Selena Linden
 
 
 References
